@@ -1,0 +1,66 @@
+.text-blue {
+    color: rgb(99, 99, 237);
+}
+
+.btn {
+    padding: 7px 12px;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(113, 113, 238);
+    border-radius: 30px;
+}
+
+.logo {
+    font-size: 3.5rem;
+}
+
+.dumbell {
+    width: 280px;
+}
+
+#image {
+    height: 500px;
+    width: 667px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.box {
+    margin: 12px 22px;
+    padding: 10px 0;
+    min-width: 20vw;
+    border: 2px solid rgb(157, 84, 84);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box h2 {
+    font-size: 2rem;
+    padding: 12px 0;
+}
+
+.highlighted {
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2p;
+}
+
+.hehe {
+    background-color: rgb(238, 77, 77);
+}
+.plantable
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

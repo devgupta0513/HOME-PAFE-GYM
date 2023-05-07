@@ -1,0 +1,76 @@
+.upperright {
+    width: 50%;
+    padding: 12px 0;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.section1 {
+    max-height: 100vh;
+}
+
+.section1 h1 {
+    font-size: 2.4rem;
+}
+
+.section2 {
+    padding: 75px;
+    
+}
+
+.section2 p {
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.section2 h1 {
+    font-size: 3 rem;
+}
+
+.section3 {
+    padding: 75px;
+}
+
+.section3 table {
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.section3 table th {
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+
+}
+
+.section3 table td {
+    border-bottom: 2px solid black;
+}
+
+.section3 h1 {
+    font-size: 2.4rem;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.my-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2 {
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+
+}
